@@ -1,0 +1,25 @@
+{
+  "name": "curso-iot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "moment": "^2.30.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaike-sousa/curso-IOT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaike-sousa/curso-IOT/issues"
+  },
+  "homepage": "https://github.com/kaike-sousa/curso-IOT#readme",
+  "description": ""
+}
